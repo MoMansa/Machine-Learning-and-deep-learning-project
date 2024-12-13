@@ -6,11 +6,9 @@ This repository contains the implementation of a pedestrian detection model usin
 ## Installation
 To get started, clone the repository and install the required dependencies:
 
-```bash
 git clone https://github.com/MoMansa/pedestrian-detection-rcnn.git
 cd pedestrian-detection-rcnn
 pip install -r requirements.txt
-```
 
 ## Usage
 
