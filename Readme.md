@@ -1,4 +1,3 @@
-```markdown
 ## Pedestrian Detection with RCNN
 
 This repository contains the implementation of a pedestrian detection model using a Region-based Convolutional Neural Network (RCNN) with the COCO dataset.
@@ -6,9 +5,11 @@ This repository contains the implementation of a pedestrian detection model usin
 ## Installation
 To get started, clone the repository and install the required dependencies:
 
+```bash
 git clone https://github.com/MoMansa/pedestrian-detection-rcnn.git
 cd pedestrian-detection-rcnn
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -28,4 +29,4 @@ python test_functions.py
 
 ## Dataset
 The model is trained and evaluated on the COCO dataset. You can download the COCO dataset from the official COCO website.
-```
+
