@@ -30,3 +30,5 @@ python test_functions.py
 ## Dataset
 The model is trained and evaluated on the COCO dataset. You can download the COCO dataset from the official COCO website.
 
+### Comparison with Yolo 
+We also include a comparison of our RCNN model with the YOLO model. This comparison evaluates the performance of both models on the COCO dataset in terms of accuracy, speed, and Intersection over Union (IoU).
